@@ -1,9 +1,9 @@
 import React from "react";
 // import { Container, Typography } from "@mui/material";
-import SliderComponent from "./Common/SliderComponents";
+import SliderComponent from "./Common/SliderComponent";
 
 const SliderSelect = ({ data, setData }) => {
-  const bank_limit = 10000;
+  const bank_limit = 1000000;
   return (
     <div>
       <SliderComponent
@@ -16,7 +16,7 @@ const SliderSelect = ({ data, setData }) => {
           });
         }}
         defaultValue={data.homeValue}
-        min={1000}
+        min={0}
         max={bank_limit}
         steps={100}
         unit="$"
