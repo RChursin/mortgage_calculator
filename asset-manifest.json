@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/mortgage_calculator/static/js/main.aa95cce1.js",
+    "main.js": "/mortgage_calculator/static/js/main.8861860b.js",
     "static/js/787.b6e36b20.chunk.js": "/mortgage_calculator/static/js/787.b6e36b20.chunk.js",
     "index.html": "/mortgage_calculator/index.html",
-    "main.aa95cce1.js.map": "/mortgage_calculator/static/js/main.aa95cce1.js.map",
+    "main.8861860b.js.map": "/mortgage_calculator/static/js/main.8861860b.js.map",
     "787.b6e36b20.chunk.js.map": "/mortgage_calculator/static/js/787.b6e36b20.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.aa95cce1.js"
+    "static/js/main.8861860b.js"
   ]
 }
