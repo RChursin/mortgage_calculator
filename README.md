@@ -40,8 +40,4 @@ Chart.js
 React ChartJS 2
 
 📝 Contributing
-<<<<<<< HEAD
 Contributions to the Mortgage Calculator are welcomed! Create a pull request with your proposed changes, and they will be reviewed promptly.
-=======
-Contributions to the Mortgage Calculator are welcomed! Create a pull request with your proposed changes, and they will be reviewed promptly.
->>>>>>> e3f6bce993fd8dd208b1d85f187537ac61bd4480
